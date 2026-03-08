@@ -1,3 +1,15 @@
+# Java (gerados)
 *.class
+
+# C (gerados)
 *.o
 a.out
+*.out
+*.exe
+
+# Pasta de binários (se você usar)
+bin/
+
+# Vim
+*.swp
+*~
